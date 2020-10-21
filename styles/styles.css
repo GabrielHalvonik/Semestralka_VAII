@@ -1,0 +1,54 @@
+.dark-mode {
+    background: #252525;
+    color: #cfcccc;
+}
+
+#navigacia {
+    position: sticky;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    background: #1C1F21;
+    border-bottom: 2px solid #cfcccc;
+}
+
+#banner {
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background: #1C1F21;
+}
+
+#hlavicka {
+    /*position: sticky;*/
+    /*z-index: 101;*/
+    background: #38404A;
+    color: #cfcccc;
+    font-weight: bold;
+}
+
+
+.biele {
+    color: #cfcccc;
+}
+
+.logoimg {
+    width: 30px;
+    height: 30px;
+}
+
+.formular {
+    padding-top: 40px;
+}
+
+.table-hover > tbody > tr:hover {
+    background-color: #d9edf7;
+}
+
+.vpluse {
+    color: green;
+}
+
+.vminuse {
+    color: darkred;
+}
